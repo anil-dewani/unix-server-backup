@@ -1,5 +1,8 @@
 # unix-server-backup
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 An python script to do full system backups of unix systems, the script needs to run as per the needed schedule using crontab. The generated comrpessed backup files are automatically uplaoded to s3 compatible storage servers.
 
 Features:
